@@ -17,6 +17,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 ---
 
 ## HOUSEKEEPING  
+
 - **Version:** v9 (Last updated: 2025-09-13)  
 - **Completion:** 82%  
 - **Budget:** $3–5M  
@@ -27,36 +28,42 @@ Let the page feel Eggers, but let the people feel Coens.**
 ---
 
 ## SALVATION, TX  
-- **Version:** v6 (Last updated: 2025-09-05)  
-- **Completion:** ~40%  
-- **Budget:** $4–8M  
-- **Pitchable:** ❌  
-- **Next Milestone:** Draft Act II (oil baptism + rodeo death).  
+
+  * Version: Treatment (Last updated: 2025-09-17)
+  * Completion: Treatment pass — **47p** (~9.5k words) ≈50%
+  * Budget: $4–8M
+  * Pitchable: ❌
+  * Next Milestone: Draft Act II (oil baptism + rodeo death).
 
 ---
 
-## DIRTY WATER  
-- **Version:** v4 (Last updated: 2025-09-13)  
-- **Completion:** 84 pages (~98%) — second draft locked 9/25/25 at 100 pages.  
-- **Budget:** $2–4M  
-- **Pitchable:** ⚠️  
-- **Next Milestone:** Polish Act III.  
+## DIRTY WATER
+ 
+  * Version: First Draft (Last updated: 2025-09-25)
+  * Completion: First draft complete — **100p**
+  * Budget: $2–4M
+  * Pitchable: ⚠️
+  * Next Milestone: Polish Act III.
+
 
 ---
 
-## HOLLOW SERMON  
-- **Version:** v1 (Last updated: 2025-09-29)  
-- **Completion:** ~30% (dense 31+ pp; most of Acts I–II drafted)  
-- **Budget:** $0.5–1M  
-- **Pitchable:** ⚠️  
-- **Next Milestones:**  
-  1. Punch up the Mom reveal in Act IV.  
-  2. Punch up each chase sequence in Act V (≈2 days of work).  
-  3. Thread motifs — oranges, the backpack, Amos and Ansel’s relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈3 days of work).  
+## HOLLOW SERMON
+
+  * Version: First Draft (Last updated: 2025-09-29)
+  * Completion: First draft complete — **90p** (~17.8k words)
+  * Budget: $0.5–1M
+  * Pitchable: ⚠️
+  * Next Milestones:
+    1. Punch up the Mom reveal in Act IV.
+    2. Punch up each chase sequence in Act V (≈2 days of work).
+    3. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈3 days of work).
+
 
 ---
 
 ## MARFA LIGHTS  
+
 - **Version:** Beatsheet v1.0 (Last updated: 2025-09-29)  
 - **Completion:** Full beatsheet locked (Acts I–V, ~120pp coverage).  
 - **Budget:** TBD (depends on feature vs. limited series approach).  
@@ -66,6 +73,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 ---
 
 ## FRONTIERSMEN  
+
 - **Version:** Early Beatsheet (co-written with dad)  
 - **Completion:** In Development (Act I outline + opening sequences drafted).  
 - **Budget:** TBD (scope dependent).  
@@ -113,8 +121,8 @@ Let the page feel Eggers, but let the people feel Coens.**
 | Project        | % Complete | Pitchable | Notes                                     |  
 |----------------|------------|-----------|-------------------------------------------|  
 | HOUSEKEEPING   | 82%        | ✅        | Next: Polish Act II–III                   |  
-| SALVATION, TX  | 40%        | ❌        | Next: Draft Act II                        |  
-| DIRTY WATER    | 98% / 100p | ⚠️        | Next: Polish Act III                      |  
-| HOLLOW SERMON  | 30%        | ⚠️        | Next: Act IV Mom + Act V chases + motifs  |  
+| SALVATION, TX  | 50% / 47p | ❌ | Next: Draft Act II                        |
+| DIRTY WATER    | 100% / 100p | ⚠️ | First draft complete → Polish Act III     |
+| HOLLOW SERMON  | 100% / 90p  | ⚠️ | First draft complete → Act IV Mom + Act V chases + motifs |  
 | MARFA LIGHTS   | Beatsheet  | ⚠️        | Next: Decide format → Draft Act I         |  
 | FRONTIERSMEN   | Dev Stage  | ❌        | Next: Flesh out beatsheet (Acts I–II)     |  
