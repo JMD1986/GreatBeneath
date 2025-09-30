@@ -16,14 +16,13 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ---
 
-## HOUSEKEEPING  
+## HOUSEKEEPING
 
-- **Version:** v9 (Last updated: 2025-09-13)  
-- **Completion:** 82%  
+- **Version:** Second Draft (Last updated: 2025-09-30)  
+- **Completion:** 100%  
 - **Budget:** $3–5M  
 - **Pitchable:** ✅  
-- **Next Milestone:** Polish Act II–III  
-- **TODO:** parallel [HOLD] beat in Hailey’s “Bad dog / three-headed Patty Melt.”  
+- **Next Milestone:** Festival submissions & polish pass  
 
 ---
 
@@ -120,7 +119,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 ## Quick View  
 | Project        | % Complete | Pitchable | Notes                                     |  
 |----------------|------------|-----------|-------------------------------------------|  
-| HOUSEKEEPING   | 82%        | ✅        | Next: Polish Act II–III                   |  
+| HOUSEKEEPING   | 100%        | ✅        | Next: Festival submissions & polish pass |  
 | SALVATION, TX  | 50% / 47p | ❌ | Next: Draft Act II                        |
 | DIRTY WATER    | 100% / 100p | ⚠️ | First draft complete → Polish Act III     |
 | HOLLOW SERMON  | 100% / 90p  | ⚠️ | First draft complete → Act IV Mom + Act V chases + motifs |  
