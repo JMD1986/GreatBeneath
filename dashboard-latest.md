@@ -25,10 +25,10 @@ Let the page feel Eggers, but let the people feel Coens.**
 - **Next Milestone:** Festival submissions & polish pass
 
   ### TODOs
-1. **Thread calendar throughout kitchen appearances**  
-2. **Rewrite Hailey’s nighttime salt circle section**  
-3. **Reformat in Zach Cregger’s screenplay style**
-4. **Proof of Concept stuff**
+- **Thread calendar throughout kitchen appearances**  
+- **Rewrite Hailey’s nighttime salt circle section**  
+- **Reformat in Zach Cregger’s screenplay style**
+- **Proof of Concept stuff**
    
 ### Proof of Concept (next steps)
 - **Witch Bottle scene** (video + sound)  
