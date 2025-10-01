@@ -27,7 +27,21 @@ Let the page feel Eggers, but let the people feel Coens.**
   ### TODOs
 1. **Thread calendar throughout kitchen appearances**  
 2. **Rewrite Hailey’s nighttime salt circle section**  
-3. **Reformat in Zach Cregger’s screenplay style**  
+3. **Reformat in Zach Cregger’s screenplay style**
+4. **Proof of Concept stuff**
+   
+### Proof of Concept (next steps)
+- **Witch Bottle scene** (video + sound)  
+- **Lizard scene** (video + sound)  
+- **Title sequence** (video + sound)  
+- **Puke scene** (video only)  
+- **Tiller scene** (soundtrack mock-up only)  
+
+### Sound Cues (to mock up with above)
+- Witch Bottle rupture (cabinet crash + warped echo tail)  
+- Lizard defense motif (skittering, protective presence)  
+- Title sequence (cicada drone + warped ice cream truck jingle)  
+- Tiller sequence (hypnotic percussive rhythm, escalating layers — soundtrack mock-up only)  
 
 ---
 
