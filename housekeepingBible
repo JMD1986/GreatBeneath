@@ -8,10 +8,10 @@ This repository contains the script bible for the screenplay "Housekeeping".
 
 ### Bible Contents
 
-* [Synopsis](SYNOPSIS.md)
-* [Character Breakdowns](CHARACTERS.md)
-* [Themes](THEMES.md)
-* [Tone & Style](TONE_STYLE.md)
-* [Setting & World](WORLD.md)
-* [Motifs & Symbols](MOTIFS_SYMBOLS.md)
+* [Synopsis](housekeepingSynopsis.md)
+* [Character Breakdowns](housekeepingCharacters.md)
+* [Themes](housekeepingThemes.md)
+* [Tone & Style](housekeepingTone.md)
+* [Setting & World](housekeepingSetting.md)
+* [Motifs & Symbols](housekeepingMotifs.md)
 * [Structural Beats](STRUCTURE.md)
