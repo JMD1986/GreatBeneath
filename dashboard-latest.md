@@ -22,7 +22,12 @@ Let the page feel Eggers, but let the people feel Coens.**
 - **Completion:** 100%  
 - **Budget:** $3–5M  
 - **Pitchable:** ✅  
-- **Next Milestone:** Festival submissions & polish pass  
+- **Next Milestone:** Festival submissions & polish pass
+
+  ### TODOs
+1. **Thread calendar throughout kitchen appearances**  
+2. **Rewrite Hailey’s nighttime salt circle section**  
+3. **Reformat in Zach Cregger’s screenplay style**  
 
 ---
 
