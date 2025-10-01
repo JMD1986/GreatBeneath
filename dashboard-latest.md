@@ -18,7 +18,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## HOUSEKEEPING
 
-- **Version:** Second Draft (Last updated: 2025-09-30)  
+- **Version:** Second Draft (Last updated: 2025-10-01)  
 - **Completion:** 100%  
 - **Budget:** $3–5M  
 - **Pitchable:** ✅  
