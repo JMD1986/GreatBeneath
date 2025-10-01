@@ -16,7 +16,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ---
 
-## HOUSEKEEPING
+## [HOUSEKEEPING](housekeepingBible.md)
 
 - **Version:** Second Draft (Last updated: 2025-10-01)  
 - **Completion:** 100%  
