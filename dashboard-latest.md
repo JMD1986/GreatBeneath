@@ -68,15 +68,15 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## HOLLOW SERMON
 
-  * Version: First Draft (Last updated: 2025-09-29)
-  * Completion: First draft complete — **90p** (~17.8k words)
-  * Budget: $0.5–1M
-  * Pitchable: ⚠️
-  * Next Milestones:
-    1. Punch up the Mom reveal in Act IV.
-    2. Punch up each chase sequence in Act V (≈2 days of work).
-    3. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈3 days of work).
-
+  * Version: First Draft (Last updated: 2025-10-01)  
+  * Completion: First draft complete — **94p** (~18.5k words)  
+  * Budget: $0.5–1M  
+  * Pitchable: ⚠️  
+  * Next Milestones:  
+    1. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈3 days of work).  
+    2. Polish pass (dialogue, flow, language).  
+    *(Mom Reveal in Act IV — finished/locked. ✅)*  
+    *(Chase sequence in Act V — finished/locked. ✅)*  
 
 ---
 
