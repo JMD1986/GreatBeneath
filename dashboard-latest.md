@@ -4,7 +4,7 @@ permalink: /dashboard-latest
 ---
 
 # 🎬 Master Screenplay Dashboard  
-**Locked Version — 2025-10-07**  
+**Locked Version — 2025-10-12**  
 
 ---
 
@@ -18,27 +18,29 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## [HOUSEKEEPING](housekeepingBible.md)
 
-- **Version:** Second Draft v2 (Last updated: 2025-10-06)  
+- **Version:** Second Draft v2 (Last updated: 2025-10-12)  
 - **Completion:** 100 %  
 - **Budget:** $3–5 M  
 - **Pitchable:** ✅  
-- **Next Milestone:** Fresh-eyes diagnostic → festival submission prep  
+- **Next Milestone:** Festival-submission polish + coverage-note integration  
 
-  ### TODOs  
-- **Adjust for 7-day structure**  
-- **Write in calendar thread**  
-- **Write in work-from-home sequence**  
-- **Integrate neighborhood jam motif**  
-- **Adjust Hailey’s witching escalation**  
+### TODOs (Condensed Coverage Pass)
+- Clarify myth ladder (stones → bottle → corpse → tree → flowering).  
+- Tighten Act II (merge/compress roofers + UPS beats).  
+- Sharpen Hailey’s arc and turn from skeptic → believer.  
+- Streamline presentation (less chopped lines, cleaner format).  
+- Confirm neighbors’ role (cult vs. bystanders).  
+- Re-ground before finale for clarity then lean fully into surrealism.  
+- **Thread in Hailey’s bouquet hobby** so it mirrors and foreshadows *the bloom.*  
 
-### Proof of Concept (next steps)  
+### Proof of Concept (next steps)
 - **Witch Bottle scene** (video + sound)  
 - **Lizard scene** (video + sound)  
 - **Title sequence** (video + sound)  
 - **Puke scene** (video only)  
 - **Tiller scene** (soundtrack mock-up only)  
 
-### Sound Cues (to mock up with above)  
+### Sound Cues (to mock up with above)
 - Witch Bottle rupture (cabinet crash + warped echo tail)  
 - Lizard defense motif (skittering, protective presence)  
 - Title sequence (cicada drone + warped ice-cream-truck jingle)  
@@ -48,35 +50,35 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## SALVATION, TX  
 
-* Version: Treatment (Last updated: 2025-09-17)  
-* Completion: Treatment pass — **47 p** (~9.5 k words) ≈ 50 %  
-* Budget: $4–8 M  
-* Pitchable: ❌  
-* Next Milestone: Draft Act II (oil baptism + rodeo death).  
+- **Version:** Treatment (Last updated: 2025-09-17)  
+- **Completion:** Treatment pass — **47 p** (~9.5 k words) ≈ 50 %  
+- **Budget:** $4–8 M  
+- **Pitchable:** ❌  
+- **Next Milestone:** Draft Act II (oil baptism + rodeo death).  
 
 ---
 
 ## DIRTY WATER  
 
-* Version: First Draft (Last updated: 2025-09-25)  
-* Completion: First draft complete — **100 p**  
-* Budget: $2–4 M  
-* Pitchable: ⚠️  
-* Next Milestone: Polish Act III.  
+- **Version:** First Draft (Last updated: 2025-09-25)  
+- **Completion:** First draft complete — **100 p**  
+- **Budget:** $2–4 M  
+- **Pitchable:** ⚠️  
+- **Next Milestone:** Polish Act III.  
 
 ---
 
 ## HOLLOW SERMON  
 
-* Version: First Draft (Last updated: 2025-10-01)  
-* Completion: First draft complete — **94 p** (~18.5 k words)  
-* Budget: $0.5–1 M  
-* Pitchable: ⚠️  
-* Next Milestones:  
-   1. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈ 3 days of work).  
-   2. Polish pass (dialogue, flow, language).  
-   *(Mom Reveal in Act IV — finished/locked. ✅)*  
-   *(Chase sequence in Act V — finished/locked. ✅)*  
+- **Version:** First Draft (Last updated: 2025-10-01)  
+- **Completion:** First draft complete — **94 p** (~18.5 k words)  
+- **Budget:** $0.5–1 M  
+- **Pitchable:** ⚠️  
+- **Next Milestones:**  
+  1. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈ 3 days of work).  
+  2. Polish pass (dialogue, flow, language).  
+  *(Mom Reveal in Act IV — finished/locked. ✅)*  
+  *(Chase sequence in Act V — finished/locked. ✅)*  
 
 ---
 
@@ -138,11 +140,9 @@ Let the page feel Eggers, but let the people feel Coens.**
 ## Quick View  
 | Project | % Complete | Pitchable | Notes |  
 |----------|-------------|-----------|-------|  
-| HOUSEKEEPING | 100 % | ✅ | Next: Fresh-eyes diagnostic → festival submission prep |  
+| HOUSEKEEPING | 100 % | ✅ | Next: Festival-submission polish + coverage-note integration |  
 | SALVATION, TX | 50 % / 47 p | ❌ | Next: Draft Act II |  
 | DIRTY WATER | 100 % / 100 p | ⚠️ | First draft complete → Polish Act III |  
 | HOLLOW SERMON | 100 % / 94 p | ⚠️ | First draft complete → Act IV Mom + Act V chases + motifs |  
 | MARFA LIGHTS | Beatsheet | ⚠️ | Next: Decide format → Draft Act I |  
 | FRONTIERSMEN | Dev Stage | ❌ | Next: Flesh out beatsheet (Acts I–II) |  
-
----
