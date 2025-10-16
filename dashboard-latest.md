@@ -4,7 +4,7 @@ permalink: /dashboard-latest
 ---
 
 # 🎬 Master Screenplay Dashboard  
-**Locked Version — 2025-10-12**  
+**Locked Version — 2025-10-15**  
 
 ---
 
@@ -18,20 +18,14 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## [HOUSEKEEPING](housekeepingBible.md)
 
-- **Version:** Second Draft v2 (Last updated: 2025-10-12)  
+- **Version:** Second Draft Complete (Last updated: 2025-10-15)  
 - **Completion:** 100 %  
 - **Budget:** $3–5 M  
 - **Pitchable:** ✅  
-- **Next Milestone:** Festival-submission polish + coverage-note integration  
+- **Next Milestone:** Awaiting Shore Scripts feedback  
 
-### TODOs (Condensed Coverage Pass)
-- Clarify myth ladder (stones → bottle → corpse → tree → flowering).  
-- Tighten Act II (merge/compress roofers + UPS beats).  
-- Sharpen Hailey’s arc and turn from skeptic → believer.  
-- Streamline presentation (less chopped lines, cleaner format).  
-- Confirm neighbors’ role (cult vs. bystanders).  
-- Re-ground before finale for clarity then lean fully into surrealism.  
-- **Thread in Hailey’s bouquet hobby** so it mirrors and foreshadows *the bloom.*  
+### Status  
+- **Waiting for Shore Scripts feedback (second review — same reader).**  
 
 ### Proof of Concept (next steps)
 - **Witch Bottle scene** (video + sound)  
@@ -104,7 +98,8 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## Notes / Submissions  
 - **Black List** — submitted 2025-09-16 (awaiting response).  
-- **Shore Scripts** — submitted 2025-09-16 (awaiting response).  
+- **Shore Scripts** — submitted 2025-09-16 (first review — awaiting response).  
+- **Shore Scripts** — **second review (same reader)** submitted **2025-10-15** (awaiting response).  
 
 ---
 
@@ -123,26 +118,4 @@ Let the page feel Eggers, but let the people feel Coens.**
 ### Year 2 (Package to Production)  
 - Deploy $15 K seed into packaging/proof-of-concept.  
 - Expand grant apps.  
-- Attach director/producer.  
-- Polish pitch materials.  
-- Attend SXSW.  
-- Circulate short + audioplay.  
-- Target Fantastic Fest (Year 2).  
-- Secure financing.  
-- Enter pre-production on lead project.  
-- **Begin drafting *Marfa Lights* if format is locked; integrate into slate as potential follow-up.**  
-- **Frontiersmen:** establish development path (series pilot vs. feature).  
-
-**End goals (24 months):** 2 + scripts polished, Great Beneath fully established with sound/mograph/editorial/grants/casting, one feature in active pre-production, slate follow-ups (*Marfa Lights*, *Salvation, TX*, *Frontiersmen*) in pipeline.  
-
----
-
-## Quick View  
-| Project | % Complete | Pitchable | Notes |  
-|----------|-------------|-----------|-------|  
-| HOUSEKEEPING | 100 % | ✅ | Next: Festival-submission polish + coverage-note integration |  
-| SALVATION, TX | 50 % / 47 p | ❌ | Next: Draft Act II |  
-| DIRTY WATER | 100 % / 100 p | ⚠️ | First draft complete → Polish Act III |  
-| HOLLOW SERMON | 100 % / 94 p | ⚠️ | First draft complete → Act IV Mom + Act V chases + motifs |  
-| MARFA LIGHTS | Beatsheet | ⚠️ | Next: Decide format → Draft Act I |  
-| FRONTIERSMEN | Dev Stage | ❌ | Next: Flesh out beatsheet (Acts I–II) |  
+- Attach director/producer.
