@@ -4,7 +4,7 @@ permalink: /dashboard-latest
 ---
 
 # 🎬 Master Screenplay Dashboard  
-**Locked Version — 2025-10-15**  
+**Locked Version — 2025-10-16**  
 
 ---
 
@@ -64,15 +64,18 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## HOLLOW SERMON  
 
-- **Version:** First Draft (Last updated: 2025-10-01)  
-- **Completion:** First draft complete — **94 p** (~18.5 k words)  
+- **Version:** Second Draft (Started: 2025-10-16)  
+- **Completion:** ~35 % (Acts I–II partial rewrite in progress)  
 - **Budget:** $0.5–1 M  
 - **Pitchable:** ⚠️  
 - **Next Milestones:**  
-  1. Thread motifs — oranges, the backpack, Amos/Ansel relationship, more titmouse beats, and more atmosphere in dialogue-heavy sections (≈ 3 days of work).  
-  2. Polish pass (dialogue, flow, language).  
-  *(Mom Reveal in Act IV — finished/locked. ✅)*  
-  *(Chase sequence in Act V — finished/locked. ✅)*  
+  1. Continue Act II rewrite (Holler Church discovery → grotesque preacher).  
+  2. Thread motifs — oranges, backpack, Amos/Ansel relationship, titmouse beats, and atmospheric detail in dialogue sections.  
+  3. Punch-up Act IV (Mom Reveal) and Act V (chase).  
+  4. **Redo rituals into your voice.**  
+  5. **Rewrite chase scene so that action is more condensed but described with more detail.**  
+  *(Mom Reveal in Act IV — finished/locked ✅)*  
+  *(Chase sequence in Act V — finished/locked ✅)*  
 
 ---
 
@@ -118,4 +121,4 @@ Let the page feel Eggers, but let the people feel Coens.**
 ### Year 2 (Package to Production)  
 - Deploy $15 K seed into packaging/proof-of-concept.  
 - Expand grant apps.  
-- Attach director/producer.
+- Attach director/producer.  
