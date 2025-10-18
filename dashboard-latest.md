@@ -16,6 +16,19 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ---
 
+## 🎬 Quick View  
+
+| Project | Version | Completion | Budget | Pitchable | Next Step |
+|----------|----------|-------------|----------|-------------|------------|
+| **HOUSEKEEPING** | Second Draft Complete (10-15-25) | **100 %** | $3–5 M | ✅ | Awaiting Shore Scripts feedback |
+| **SALVATION, TX** | First Draft (10-18-25) | **≈ 65 %** | $4–8 M | ⚠️ | Work on Acts II–V + Dialogue |
+| **DIRTY WATER** | First Draft (9-25-25) | **100 p / ≈ 95 %** | $2–4 M | ⚠️ | Polish Act III finale |
+| **HOLLOW SERMON** | Second Draft (10-16-25 start) | **≈ 80 %** | $0.5–1 M | ⚠️ | Continue Act II rewrite |
+| **MARFA LIGHTS** | Beatsheet v1.0 (9-29-25) | **100 % (beatsheet)** | TBD | ⚠️ | Decide format + draft Act I |
+| **FRONTIERSMEN** | Early Beatsheet | **In Development** | TBD | ❌ | Expand Acts I–II outline |
+
+---
+
 ## [HOUSEKEEPING](housekeepingBible.md)
 
 - **Version:** Second Draft Complete (Last updated: 2025-10-15)  
@@ -44,11 +57,18 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## SALVATION, TX  
 
-- **Version:** Treatment (Last updated: 2025-09-17)  
-- **Completion:** Treatment pass — **47 p** (~9.5 k words) ≈ 50 %  
+- **Version:** First Draft (Last updated: 2025-10-18)  
+- **Completion:** Acts I–II complete — ~65 % total progress  
 - **Budget:** $4–8 M  
-- **Pitchable:** ❌  
-- **Next Milestone:** Draft Act II (oil baptism + rodeo death).  
+- **Pitchable:** ⚠️  
+
+### TODOs  
+- **Work on Acts II–V.**  
+- **Thread Edward flashback motif.**  
+- **Work on dialogue.**  
+
+### Status  
+- Acts I and II first draft completed; tone and ritual framework locked.  
 
 ---
 
@@ -58,14 +78,14 @@ Let the page feel Eggers, but let the people feel Coens.**
 - **Completion:** First draft complete — **100 p**  
 - **Budget:** $2–4 M  
 - **Pitchable:** ⚠️  
-- **Next Milestone:** Polish Act III.  
+- **Next Milestone:** Polish Act III finale and confirm Alma’s closing beat.  
 
 ---
 
 ## HOLLOW SERMON  
 
 - **Version:** Second Draft (Started: 2025-10-16)  
-- **Completion:** ~35 % (Acts I–II partial rewrite in progress)  
+- **Completion:** ~80 % (first draft nearly complete; partial rewrite in progress)  
 - **Budget:** $0.5–1 M  
 - **Pitchable:** ⚠️  
 - **Next Milestones:**  
@@ -122,3 +142,5 @@ Let the page feel Eggers, but let the people feel Coens.**
 - Deploy $15 K seed into packaging/proof-of-concept.  
 - Expand grant apps.  
 - Attach director/producer.  
+
+---
