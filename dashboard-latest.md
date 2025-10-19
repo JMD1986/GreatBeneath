@@ -3,6 +3,8 @@ title: 🎬 Master Screenplay Dashboard (Locked)
 permalink: /dashboard-latest
 ---
 
+**⚠️ Before next Black List submission, run each script through [30 Days of Script Notes](https://www.30daysofscriptnotes.com/).**
+
 # 🎬 Master Screenplay Dashboard  
 **Locked Version — 2025-10-16**  
 
@@ -113,34 +115,4 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 - **Version:** Early Beatsheet (co-written with dad)  
 - **Completion:** In Development (Act I outline + opening sequences drafted).  
-- **Budget:** TBD (scope dependent).  
-- **Pitchable:** ❌  
-- **Next Milestone:** Flesh out beatsheet for Acts I–II; decide series vs. feature framework.  
-
----
-
-## Notes / Submissions  
-- **Black List** — submitted 2025-09-16 (awaiting response).  
-- **Shore Scripts** — submitted 2025-09-16 (first review — awaiting response).  
-- **Shore Scripts** — **second review (same reader)** submitted **2025-10-15** (awaiting response).  
-
----
-
-## Great Beneath Productions — Two-Year Roadmap  
-
-### Year 1 (Build Package & Presence)  
-- Polish *Dirty Water* & *Hollow Sermon*.  
-- Flesh out *Salvation, TX*.  
-- Finalize Great Beneath identity/capabilities doc, one-pagers, audioplay proof-of-concept, pitch decks, grant apps, contest submissions.  
-- Networking at Fantastic Fest.  
-- Identify lead project (*Housekeeping* or *Hollow Sermon*).  
-- Optional: LLC formation if project advances.  
-- **Include *Marfa Lights* as a developing concept:** push forward beatsheet → Act I draft; decide feature vs. series format.  
-- **Frontiersmen:** keep developing beats with dad, test viability as part of Southern American Mythology slate.  
-
-### Year 2 (Package to Production)  
-- Deploy $15 K seed into packaging/proof-of-concept.  
-- Expand grant apps.  
-- Attach director/producer.  
-
----
+- **Budget:**
