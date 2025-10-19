@@ -23,6 +23,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 | **HOLLOW SERMON** | Second Draft (10-16-25 start) | **≈ 80 %** | $0.5–1 M | ⚠️ | Continue Act II rewrite |
 | **MARFA LIGHTS** | Beatsheet v1.0 (9-29-25) | **100 % (beatsheet)** | TBD | ⚠️ | Decide format + draft Act I |
 | **FRONTIERSMEN** | Early Beatsheet | **In Development** | TBD | ❌ | Expand Acts I–II outline |
+| **BLOOD DIAMONDS** | Outline + Opening (10-18-25) | **≈ 5 %** | ~$10 M | ❌ | Flesh out scenes, work on dialogue |
 
 ---
 
@@ -110,4 +111,48 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 - **Version:** Early Beatsheet (co-written with dad)  
 - **Completion:** In Development (Act I outline + opening sequences drafted).  
-- **Budget:**
+- **Budget:** TBD (scope dependent).  
+- **Pitchable:** ❌  
+- **Next Milestone:** Flesh out beatsheet for Acts I–II; decide series vs. feature framework.  
+
+---
+
+## BLOOD DIAMONDS  
+
+- **Genre:** Supernatural Horror × Heist  
+- **Version:** Outline + Opening Sequence (Last updated: 2025-10-18)  
+- **Completion:** ≈ 5 %  
+- **Budget:** ~$10 M  
+- **Pitchable:** ❌  
+- **Next Milestone:** Flesh out scenes and work on dialogue.  
+
+---
+
+## Notes / Submissions  
+- **Black List** — submitted 2025-09-16 (awaiting response).  
+- **Shore Scripts** — submitted 2025-09-16 (first review — awaiting response).  
+- **Shore Scripts** — **second review (same reader)** submitted **2025-10-15** (awaiting response).  
+
+---
+
+## Great Beneath Productions — Two-Year Roadmap  
+
+### Year 1 (Build Package & Presence)  
+- Polish *Dirty Water* & *Hollow Sermon*.  
+- Flesh out *Salvation, TX*.  
+- Finalize Great Beneath identity/capabilities doc, one-pagers, audioplay proof-of-concept, pitch decks, grant apps, contest submissions.  
+- Networking at Fantastic Fest.  
+- Identify lead project (*Housekeeping* or *Hollow Sermon*).  
+- Optional: LLC formation if project advances.  
+- **Include *Marfa Lights* as a developing concept:** push forward beatsheet → Act I draft; decide feature vs. series format.  
+- **Frontiersmen:** keep developing beats with dad, test viability as part of Southern American Mythology slate.  
+
+### Year 2 (Package to Production)  
+- Deploy $15 K seed into packaging/proof-of-concept.  
+- Expand grant apps.  
+- Attach director/producer.  
+
+---
+Autofill
+
+;
