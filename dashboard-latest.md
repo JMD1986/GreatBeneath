@@ -1,8 +1,3 @@
----
-title: 🎬 Master Screenplay Dashboard (Locked)
-permalink: /dashboard-latest
----
-
 # **⚠️ Before next Black List submission, run each script through [30 Days of Script Notes](https://www.30daysofscriptnotes.com/).**
 
 # 🎬 Master Screenplay Dashboard  
