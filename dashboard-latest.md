@@ -1,7 +1,7 @@
 # **⚠️ Before next Black List submission, run each script through [30 Days of Script Notes](https://www.30daysofscriptnotes.com/).**
 
 # 🎬 Master Screenplay Dashboard  
-**Locked Version — 2025-10-16**  
+**Locked Version — 2025-10-21**  
 
 ---
 
@@ -17,7 +17,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 | Project | Version | Completion | Budget | Pitchable | Next Step |
 |----------|----------|-------------|----------|-------------|------------|
-| **HOUSEKEEPING** | Second Draft Complete (10-15-25) | **100 %** | $3–5 M | ✅ | Awaiting Shore Scripts feedback |
+| **HOUSEKEEPING** | Third Draft (10-21-25) | **100 %** | $3–5 M | ✅ | Integrate Shore Scripts feedback + tighten pacing |
 | **SALVATION, TX** | First Draft (10-18-25) | **≈ 65 %** | $4–8 M | ⚠️ | Work on Acts II–V + Dialogue |
 | **DIRTY WATER** | First Draft (9-25-25) | **100 p / ≈ 95 %** | $2–4 M | ⚠️ | Polish Act III finale |
 | **HOLLOW SERMON** | Second Draft (10-16-25 start) | **≈ 80 %** | $0.5–1 M | ⚠️ | Continue Act II rewrite |
@@ -29,14 +29,23 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## [HOUSEKEEPING](housekeepingBible.md)
 
-- **Version:** Second Draft Complete (Last updated: 2025-10-15)  
+- **Version:** Third Draft (Started: 2025-10-21)  
 - **Completion:** 100 %  
 - **Budget:** $3–5 M  
 - **Pitchable:** ✅  
-- **Next Milestone:** Awaiting Shore Scripts feedback  
+- **Next Milestone:** Integrate Shore Scripts feedback + tighten pacing to under 100 pages.  
 
 ### Status  
-- **Waiting for Shore Scripts feedback (second review — same reader).**  
+- Second Shore Scripts review received 10/20/25.  
+- Feedback positive overall: stronger clarity, tone, and presentation; pacing and structure now main focus.  
+
+### TODOs — Draft 3 Implementation Plan  
+1. **Tighten pacing** → Bring total under 100 pages. Condense pp. 33–42; trim atmospheric lines; move witch bottle rupture to ~p10.  
+2. **Advance police intro** → Shift Klein & Gabrus earlier (≈ p38–42).  
+3. **Clarify supernatural logic** → Explicit ladder of cause/effect (stones → bugs → corpse → tree).  
+4. **Add English translations** (in parentheses) for all Spanish dialogue.  
+5. **Remove camera calls** (e.g., “STATIC WIDE – HOLD”).  
+6. **Simplify bloom finale** → Use sound, light, and practical texture over heavy VFX.  
 
 ### Proof of Concept (next steps)
 - **Witch Bottle scene** (video + sound)  
@@ -131,7 +140,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 ## Notes / Submissions  
 - **Black List** — submitted 2025-09-16 (awaiting response).  
 - **Shore Scripts** — submitted 2025-09-16 (first review — awaiting response).  
-- **Shore Scripts** — **second review (same reader)** submitted **2025-10-15** (awaiting response).  
+- **Shore Scripts** — **second review (same reader)** submitted **2025-10-15**, feedback received **2025-10-20**.  
 
 ---
 
@@ -153,6 +162,3 @@ Let the page feel Eggers, but let the people feel Coens.**
 - Attach director/producer.  
 
 ---
-Autofill
-
-;
