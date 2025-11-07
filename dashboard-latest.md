@@ -1,3 +1,4 @@
+```markdown
 # **⚠️ Before next Black List submission, run each script through [30 Days of Script Notes](https://www.30daysofscriptnotes.com/).**
 
 # 🎬 Master Screenplay Dashboard  
@@ -18,7 +19,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 | Project | Version | Completion | Budget | Pitchable | Next Step |
 |----------|----------|-------------|----------|-------------|------------|
 | **HOUSEKEEPING** | Third Draft (10-21-25) | **100 %** | $3–5 M | ✅ | Integrate Shore Scripts feedback + tighten pacing |
-| **SALVATION, TX** | First Draft (10-18-25) | **≈ 65 %** | $4–8 M | ⚠️ | Work on Acts II–V + Dialogue |
+| **SALVATION, TX** | First Draft (11-5-25) | **≈ 65 %** | $4–8 M | ⚠️ | Rewrite pages 16–32 |
 | **DIRTY WATER** | First Draft (9-25-25) | **100 p / ≈ 95 %** | $2–4 M | ⚠️ | Polish Act III finale |
 | **HOLLOW SERMON** | Second Draft (10-16-25 start) | **≈ 80 %** | $0.5–1 M | ⚠️ | Continue Act II rewrite |
 | **MARFA LIGHTS** | Beatsheet v1.0 (9-29-25) | **100 % (beatsheet)** | TBD | ⚠️ | Decide format + draft Act I |
@@ -64,18 +65,18 @@ Let the page feel Eggers, but let the people feel Coens.**
 
 ## SALVATION, TX  
 
-- **Version:** First Draft (Last updated: 2025-10-18)  
-- **Completion:** Acts I–II complete — ~65 % total progress  
+- **Version:** First Draft (Last updated: 2025-11-05)  
+- **Completion:** Acts I–II in progress — ~65 % total progress  
 - **Budget:** $4–8 M  
 - **Pitchable:** ⚠️  
 
 ### TODOs  
-- **Work on Acts II–V.**  
+- **Rewrite pages 16–32.**  
 - **Thread Edward flashback motif.**  
 - **Work on dialogue.**  
 
 ### Status  
-- Acts I and II first draft completed; tone and ritual framework locked.  
+- Acts I and II first draft completed through p.16; tone and ritual framework locked.  
 
 ---
 
@@ -162,3 +163,4 @@ Let the page feel Eggers, but let the people feel Coens.**
 - Attach director/producer.  
 
 ---
+```
