@@ -18,7 +18,7 @@ Let the page feel Eggers, but let the people feel Coens.**
 | Project | Version | Completion | Budget | Pitchable | Next Step |
 |----------|----------|-------------|----------|-------------|------------|
 | **HOUSEKEEPING** | Third Draft (10-21-25) | **100 %** | $3–5 M | ✅ | Integrate Shore Scripts feedback + tighten pacing |
-| **SALVATION, TX** | First Draft (11-11-25) | **≈ 65 %** | $4–8 M | ⚠️ | Rewrite pages 16–32 |
+| **SALVATION, TX** | First Draft (11-11-25) | **≈ 65 %** | $4–8 M | ⚠️ | Rewrite pages 47-53 |
 | **DIRTY WATER** | First Draft (9-25-25) | **100 p / ≈ 95 %** | $2–4 M | ⚠️ | Polish Act III finale |
 | **HOLLOW SERMON** | Second Draft (10-16-25 start) | **≈ 80 %** | $0.5–1 M | ⚠️ | Continue Act II rewrite |
 | **MARFA LIGHTS** | Beatsheet v1.0 (9-29-25) | **100 % (beatsheet)** | TBD | ⚠️ | Decide format + draft Act I |
